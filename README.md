@@ -1,2 +1,2 @@
 # gui-calculator
-Igonore project just learning python library with friends.
+Ignore project just learning python library with friends.
